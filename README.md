@@ -1,6 +1,6 @@
 <h1>Olá, sou a Lilit!</h1>
 
-<p>Uma Travesti paraibana residindo no Recife, Desenvolvedora Web Front-end formada pelo programa TRANS.FORMA da Rede cidadã e do Porto Digital. Sou Graduanda em Cinema e Audiovisual pela UFPE. Experiência em produção e gestão de projetos culturais, atuo também como DJ, Curadora e Realizadora Audiovisual.</p>
+<p>Uma Travesti paraibana residindo no Recife, sou <b>Desenvolvedora Web Front-end JavaScript e React</b> formada pelo programa <i>TRANS.FORMA</i> da Rede cidadã e do Porto Digital e atualmente curso <b>Desenvolvimento Back-end NodeJS</b> na turma <i>Todas em Tech</i> da {reprograma}. Sou Graduanda em Cinema e Audiovisual pela UFPE. Experiência em produção e gestão de projetos culturais, atuo também como DJ, Curadora e Realizadora Audiovisual.</p>
 
 <a href="mailto:devlilitbandeira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lilitbandeira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,28 +15,28 @@
   <img src="https://img.shields.io/badge/Bootstrap-7D3C98?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </code>
 
 <h3> :wrench: Skills em Aperfeiçoamento:</h3>
 
 <code>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </code>
 
-<h3> :scroll: Próximas Skills:</h3>
+<h3> :scroll: Skills de Interesse:</h3>
 
 <code>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   
 </code>
 
