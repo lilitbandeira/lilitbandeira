@@ -1,6 +1,8 @@
+<img src="https://i.picasion.com/pic91/44bc43d5db1a274ece7ca9e4a57ce15c.gif" width="150" height="160" border="0" alt="https://picasion.com/" />
+
 # Olá, sou a Lilit!
 
-<p>Tavesti residente no Recife, sou <b>Desenvolvedora FullStack</b> e trabalho como <b>Software Engineer no <span style="color: purple;">Nubank</b> e professora na <span style="color: purple;">{reprograma}</b>. Também sou Graduanda em Cinema e Audiovisual pela UFPE e tenho experiência em produção e gestão de projetos culturais e criadora Audiovisual.</p>
+<p>Tavesti residente no Recife, sou <b>Desenvolvedora FullStack</b> e trabalho como <b>Software Engineer no <span style="color: purple;">Nubank</b> e professora na <span style="color: purple;">{reprograma}</b>. Também sou Graduanda em Cinema e Audiovisual pela UFPE e tenho experiência em produção e gestão de projetos culturais e criadora Audiovisual.</p>  
 
 <div>
   <a href="https://gist.github.com/lilitbandeira"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -9,7 +11,7 @@
   <a href="https://t.me/lilitbandeira"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:devlilitbandeira@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-  
+
 ##  
 <br>
   
@@ -81,8 +83,8 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">1. Repositório de onde retirei os stats do github</a><br>
-  <a href="https://devicon.dev/">2. Site de onde retirei os badges de redes sociais</a><br>
-  <a href="https://github.com/iuricode/readme-template">3. Repositório de onde retirei os badges das skills</a><br>
+  <a href="https://github.com/iuricode/readme-template">2. Site de onde retirei os badges de redes sociais</a><br>
+  <a href="https://devicon.dev/">3. Repositório de onde retirei os badges das skills</a><br>
   <a href="https://picrew.me/">4. Site para criar avatar, onde criei o meu gif</a>
 </div>
 
