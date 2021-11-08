@@ -77,10 +77,6 @@
 
 ##
 
-![Snake animation](https://github.com/lilitbandeira/lilitbandeira/blob/output/github-contribution-grid-snake.svg)
-
-##
-
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">1. Repositório de onde retirei os stats do github</a><br>
   <a href="https://github.com/iuricode/readme-template">2. Site de onde retirei os badges de redes sociais</a><br>
