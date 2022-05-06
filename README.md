@@ -2,7 +2,7 @@
 
 # Olá, sou a Lilit!
 
-<p>Tavesti residente no Recife, sou <b>Desenvolvedora FullStack</b> e trabalho como <b>Software Engineer no <span style="color: purple;">Nubank</b> e professora na <span style="color: purple;">{reprograma}</b>. Também sou Graduanda em Cinema e Audiovisual pela UFPE e tenho experiência em produção e gestão de projetos culturais e criadora Audiovisual.</p>  
+<p>Tavesti paraibana residente em São Paulo, sou <b>Desenvolvedora FullStack</b> e trabalho como <b>Software Engineer no <span style="color: purple;">Nubank</b> e como professora na <span style="color: purple;">{reprograma}</b> e na <span style="color: purple;">minasProgramam</b>. Também sou Graduanda em Cinema e Audiovisual pela UFPE e tenho experiência em produção e gestão de projetos culturais e criação Audiovisual.</p>  
 
 <div>
   <a href="https://gist.github.com/lilitbandeira"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -27,7 +27,8 @@
 <div>
   <img alt="clojure" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
   <img alt="flutter" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="c#" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="dart" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img alt="c#" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </div>
 
 
@@ -48,6 +49,7 @@
   <img alt="nextjs" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img alt="nodejs" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="expressjs" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img alt="mongodb" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ## Conheço um pouco de:
@@ -55,7 +57,6 @@
 <div>
   <img alt="PHP" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img alt="jest" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img alt="mongodb" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="sass" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img alt="wordPress" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img alt="graphQL" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
