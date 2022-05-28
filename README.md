@@ -1,8 +1,8 @@
 <img src="https://i.picasion.com/pic91/44bc43d5db1a274ece7ca9e4a57ce15c.gif" width="150" height="160" border="0" alt="https://picasion.com/" />
 
-# Olá, sou a Lilit!
+# Oi, sou a Lilit!
 
-<p>Tavesti paraibana residente em São Paulo, sou <b>Desenvolvedora FullStack</b> e trabalho como <b>Software Engineer no <span style="color: purple;">Nubank</b> e como professora na <span style="color: purple;">{reprograma}</b> e na <span style="color: purple;">minasProgramam</b>. Também sou Graduanda em Cinema e Audiovisual pela UFPE e tenho experiência em produção e gestão de projetos culturais e criação Audiovisual.</p>  
+<p>Uma tavesti paraibana residente em São Paulo, sou <b>Desenvolvedora FullStack</b> e trabalho como <b>Software Engineer no <span style="color: purple;">Nubank</b> e como professora na <span style="color: purple;">{reprograma}</b> e na <span style="color: purple;">minasProgramam</b>.</p>  
 
 <div>
   <a href="https://gist.github.com/lilitbandeira"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -32,7 +32,7 @@
 </div>
 
 
-## Dou aula na {reprograma} de:
+## Sou professora de:
 
 <div>
   <img alt="javascript" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -83,5 +83,3 @@
   <a href="https://devicon.dev/">3. Repositório de onde retirei os badges das skills</a><br>
   <a href="https://picrew.me/">4. Site para criar avatar, onde criei o meu gif</a>
 </div>
-
-### Até Breve! :wink:</h6>
