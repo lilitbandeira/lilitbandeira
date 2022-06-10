@@ -2,8 +2,9 @@
 
 ## Oi, sou a Lilit!
 
-<p>Sou tavesti, meus pronomes são ela/dela, moro em São Paulo - Brasil e trabalho como <b>Software Engineer no <span style="color: purple;">Nubank</b> com `clojure` e `flutter` e como professora de `javascript` na <span style="color: purple;">{reprograma}</b> e na <span style="color: purple;">minasProgramam</b>.</p> Tesnho experiência com `ReactJS`, `NextJS` e `TypeScript` e estou estudando um pouco de `node.js`, `python` e `C#` no pouco tempo livre! Tenho uma queda por `php`, `java` e `go` e quero aprender também 😊
+Sou tavesti, meus pronomes são ela/dela e moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no <i>Nubank</i></b> com `clojure` e `flutter` e como professora de `javascript` na <i>{reprograma}</i> e na <i>minasProgramam</i>. Tenho experiência com `ReactJS`, `NextJS` e `TypeScript` e estou estudando um pouco de `node.js`, `python` e `C#` no pouco tempo livre! Tenho uma queda por `php`, `java` e `go` e quero aprender todas!
 
+<br>
 <div>
   <a href="https://gist.github.com/lilitbandeira"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lilitbandeira"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,7 +18,7 @@
   
 <div>
   <a href="https://github.com/lilitbandeira/">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=lilitbandeira&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilitbandeira&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=lilitbandeira&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilitbandeira&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
   </a>
 </div>
