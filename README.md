@@ -17,6 +17,6 @@ Sou tavesti, meus pronomes são ela/dela e moro em São Paulo, Brasil. Trabalho 
 <div>
   <a href="https://github.com/lilitbandeira/">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=lilitbandeira&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilitbandeira&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilitbandeira&show_icons=true&hide=html&layout=compact&theme=tokyonight&count_private=true&includes_all_commits=true" />
   </a>
 </div>
