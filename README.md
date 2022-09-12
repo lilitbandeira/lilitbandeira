@@ -1,6 +1,6 @@
 ## Oi, sou a Lilit!
 
-Sou tavesti, meus pronomes são ela/dela e moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no <i>Nubank</i></b> com `clojure` e `flutter` e como professora de `javascript` na <i>{reprograma}</i> e na <i>minasProgramam</i>. Tenho experiência com `ReactJS`, `NextJS` e `TypeScript` e estou estudando um pouco de `node.js`, `python` e `C#` no pouco tempo livre! Tenho uma queda por `php`, `java` e `go` e quero aprender todas!
+Sou tavesti, meus pronomes são ela/dela e moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> com `clojure` e `flutter/dart` e como professora de `javascript` na <b>{reprograma}</b> e na <b>minasProgramam</b>. Tenho experiência com `ReactJS`, `NextJS`, `TypeScript` e `node.js`. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i> na <b>Mackenzie</b> e estou estudando um pouco de `python` e `C#` no pouco tempo livre! Tenho uma queda por `php`, `java` e `go` e quero aprender todas!
 
 <br>
 <div>
