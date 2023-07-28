@@ -1,13 +1,12 @@
 ## Oi, sou a Lilit!
 
-Moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> com `clojure` e `flutter/dart` e umpouco de `Swift` e `C#` como professora de `javascript` na <b>{reprograma}</b> e na <b>minasProgramam</b>. Tenho experiência com `ReactJS`, `NextJS`, `TypeScript` e `node.js`. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i> na <b>Mackenzie</b>, estou estudando um pouco de `python` no tempo livre e tenho uma queda por `go`!
+Moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> com `clojure` e `flutter/dart` e umpouco de `Swift` e `C#` como professora de `javascript` na <b>{reprograma}</b> e na <b>minasProgramam</b>. Tenho alguma experiência com `ReactJS`, `NextJS`, `TypeScript` e `node.js`. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i> na <b>Mackenzie</b>, estou estudando um pouco de `python` no tempo livre e tenho uma queda por `go`!
 
 <br>
 <div>
   <a href="https://gist.github.com/lilitbandeira"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lilitbandeira"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/lilitbandeira/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/lilitbandeira"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:devlilitbandeira@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
