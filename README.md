@@ -1,6 +1,6 @@
 ## Oi, sou a Lilit!
 
-Moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> com `clojure` e `flutter/dart` e umpouco de `Swift` e `C#` como professora de `javascript` na <b>{reprograma}</b> e na <b>minasProgramam</b>. Tenho alguma experiência com `ReactJS`, `NextJS`, `TypeScript` e `node.js`. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i> na <b>Mackenzie</b>, estou estudando um pouco de `python` no tempo livre e tenho uma queda por `go`!
+Moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> com `clojure` e `flutter/dart` e um pouco de `Swift` e `C#`, também sou professora de `javascript` na <b>{reprograma}</b> e na <b>minasProgramam</b>. Tenho alguma experiência com `ReactJS`, `NextJS`, `TypeScript` e `node.js`. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i> na <b>Mackenzie</b>, estou estudando um pouco de `python` no tempo livre e tenho uma queda por `go`!
 
 <br>
 <div>
