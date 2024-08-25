@@ -1,6 +1,6 @@
 ## Oi, sou a Lilit!
 
-Moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> também sou professora de `javascript` na <b>{reprograma}</b>.
+Moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> também sou professora e Líder Técnica na <b>{reprograma}</b>.
 
 <br>
 <div>
