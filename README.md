@@ -4,6 +4,7 @@ Moro em São Paulo, Brasil. Trabalho como <b>Software Engineer no Nubank</b> tam
 
 <br>
 <div>
+  <img src="assets/rag.png" alt="personagem do jogo ragnarok origin" width="100">
   <a href="https://www.linkedin.com/in/lilitbandeira"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/lilitbandeira/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:devlilitbandeira@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
